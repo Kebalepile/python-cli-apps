@@ -1,0 +1,6 @@
+         name    surname  gender   ethnic  age
+0  kebalepile  motshoana    male  afrikan   23
+1     kagisho  motshoana    male  afrikan   56
+2     phaladi  motshoana    male  afrikan   17
+3  kediemetse  motshoana  female  afrikan   49
+4  omphemetse  motshoana    male  afrikan   11
